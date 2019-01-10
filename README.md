@@ -3,14 +3,14 @@
  
   Steps are done in this app:
  
- - Created SQL Database called Bamazon.
- - Bamazon Database includes a Table called products
- - The products tabble incliudes:
+:star:Created SQL Database called Bamazon.
+:star:Bamazon Database includes a Table called products
+:star: The products tabble incliudes:
  
- item_id (unique id for each product):star: product_name (Name of product):star:department_name:star:price:star:stock_quantity 
+ **item_id (unique id for each product)||product_name (Name of product)||department_name||price||stock_quantity**
  
- - The table had 10 different product listed. Mockaroo.com is used to create random data
- - Node application created called bamazonCustomer.js. Running this application  first displays all of the items available for   sale. 
+:star:The table had 10 different product listed. Mockaroo.com is used to create random data
+:star: Node application created called bamazonCustomer.js. Running this application  first displays all of the items available for   sale. 
  - The app should then prompt users with two messages:
  
   *1.What is the item ID you will need to buy?* 
@@ -23,11 +23,11 @@
 
 
 
-Once the customer has placed the order, your application should check if your store has enough of the product to meet the customer's request.
+:star:Once the customer has placed the order, your application should check if your store has enough of the product to meet the customer's request.
 
 
 
-If not, the app should log a phrase like **Insufficient quantity!**, and then prevent the order from going through.
+:star:If not, the app should log a phrase like **Insufficient quantity!**, and then prevent the order from going through.
 
 
 
