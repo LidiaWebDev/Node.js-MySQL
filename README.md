@@ -1,5 +1,5 @@
 # Node.js-MySQL
- **Bamazon Customer - is the  Customer View app that takes orders from customers and checks stock from the store's inventory. 
+ **Bamazon Customer - is the  Customer View app that takes orders from customers and checks stock from the store's inventory.** 
  
   Steps are done in this app:
  
@@ -13,10 +13,10 @@
  - Node application created called bamazonCustomer.js. Running this application  first displays all of the items available for   sale. 
  - The app should then prompt users with two messages:
  
-  *1.What is the item ID you will need to buy? 
-  *2.How many items do you need?
+  *1.What is the item ID you will need to buy?* 
+  *2.How many items do you need?*
   
-  **App DEMO
+  **App DEMO**
   
   ![](demobamazon.gif)
 
