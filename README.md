@@ -13,7 +13,7 @@
  
 :star:The table had 10 different product listed. Mockaroo.com is used to create random data
 :star: Node application created called bamazonCustomer.js. Running this application  first displays all of the items available for   sale. 
- - The app should then prompt users with two messages:
+:star:The app should then prompt users with two messages:
  
   *1.What is the item ID you will need to buy?* 
   *2.How many areitems do you need?*
