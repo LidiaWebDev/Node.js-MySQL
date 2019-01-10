@@ -18,6 +18,7 @@
 :star:The app should then prompt users with two messages:
  
   *1.What is the item ID you will need to buy?* 
+  
   *2.How many items do you need?*
   
   **App DEMO**
