@@ -4,7 +4,9 @@
   Steps are done in this app:
  
 :star:Created SQL Database called Bamazon.
+
 :star:Bamazon Database includes a Table called products
+
 :star: The products tabble incliudes:
  
  **item_id (unique id for each product)||product_name (Name of product)||department_name||price||stock_quantity**
