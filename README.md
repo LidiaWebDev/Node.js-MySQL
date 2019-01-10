@@ -7,7 +7,7 @@
 
 :star:Bamazon Database includes a Table called products
 
-:star: The products tabble incliudes:
+:star: The products table includes:
  
  **item_id (unique id for each product)||product_name (Name of product)||department_name||price||stock_quantity**
  
