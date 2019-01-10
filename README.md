@@ -1,7 +1,7 @@
 # Node.js-MySQL
  **Bamazon Customer - is the  Customer View app that takes orders from customers and checks stock from the store's inventory.** 
  
-  Steps are done in this app:
+  App steps:
  
 :star:Created SQL Database called Bamazon.
 
@@ -16,7 +16,7 @@
  - The app should then prompt users with two messages:
  
   *1.What is the item ID you will need to buy?* 
-  *2.How many items do you need?*
+  *2.How many areitems do you need?*
   
   **App DEMO**
   
