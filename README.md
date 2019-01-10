@@ -12,7 +12,9 @@
  **item_id (unique id for each product)||product_name (Name of product)||department_name||price||stock_quantity**
  
 :star:The table had 10 different product listed. Mockaroo.com is used to create random data
+
 :star: Node application created called bamazonCustomer.js. Running this application  first displays all of the items available for   sale. 
+
 :star:The app should then prompt users with two messages:
  
   *1.What is the item ID you will need to buy?* 
