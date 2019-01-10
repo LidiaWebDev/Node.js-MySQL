@@ -7,7 +7,7 @@
  - Bamazon Database includes a Table called products
  - The products tabble incliudes:
  
- item_id (unique id for each product)|| product_name (Name of product)||department_name||price||stock_quantity 
+ item_id (unique id for each product):star: product_name (Name of product):star:department_name:star:price:star:stock_quantity 
  
  - The table had 10 different product listed. Mockaroo.com is used to create random data
  - Node application created called bamazonCustomer.js. Running this application  first displays all of the items available for   sale. 
