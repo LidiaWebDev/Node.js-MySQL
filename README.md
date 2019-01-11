@@ -33,6 +33,7 @@
 
 
 :star:If not, the app should log a phrase like **Insufficient quantity!**, and then prevent the order from going through.
+Customer view Bamazon version https://lidiawebdev.github.io/Node.js-MySQL/
 
 
 
